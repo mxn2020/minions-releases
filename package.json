@@ -1,7 +1,7 @@
 {
     "name": "minions-releases-workspace",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Release planning, version bumps, changelog generation, and publish targets",
     "type": "module",
     "license": "MIT",
