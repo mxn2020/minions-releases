@@ -1,6 +1,12 @@
 ---
 name: minions-releases
-description: Release planning, version bumps, changelog generation, and publish targets
+id: OC-0152
+version: 1.0.0
+description: "Release planning, version bumps, changelog generation, and publish targets"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-releases — Agent Skills
