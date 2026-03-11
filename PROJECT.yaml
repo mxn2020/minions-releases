@@ -1,0 +1,15 @@
+name: minions-releases-workspace
+project_scope: main
+project_type: monorepo
+description: "Release planning, version bumps, changelog generation, and publish targets"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-releases"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, releases]
+notes: null
+id: c5727978-9c54-4448-833a-47ba11b5ddff

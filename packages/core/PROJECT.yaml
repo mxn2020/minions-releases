@@ -1,0 +1,8 @@
+name: "@minions-releases/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-releases-workspace
+description: "Release planning, version bumps, changelog generation, and publish targets"
+priority: high
+deploy_url: null
+tags: null

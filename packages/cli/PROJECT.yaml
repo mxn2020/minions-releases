@@ -1,0 +1,8 @@
+name: "@minions-releases/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-releases-workspace
+description: "CLI for minions-releases — Release planning, version bumps, changelog generation, and publish targets"
+priority: high
+deploy_url: null
+tags: null
